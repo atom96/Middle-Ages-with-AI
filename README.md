@@ -8,7 +8,8 @@ type
 ```
 ./game.sh -n NUM -k NUM -s NUM -p1 (NUM, NUM) -p2 (NUM, NUM) -ai1 PATH_TO_PROGRAM -ai2 PATH_TO_PROGRAM
 ```
-All of the flags are optional. If you will not include f.e. `-ai1` flag, Player 1 will be human. Flag meaning:
+All of the flags are optional. If you will not include f.e. `-ai1` flag, Player 1 will be human. </br>
+Flags meaning:
  - `-n` size of board (board is a square)
  - `-k` max num. of rounds
  - `-s` delay between command which would be send by AI
